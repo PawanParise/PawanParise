@@ -1,5 +1,5 @@
-# 💫 About Me:
-👋 About Me<br><br>🔭 I’m a Computer Science & Engineering student currently pursuing my B.Tech from S. B. Jain Institute of Technology, Nagpur<br>🎓 Diploma holder in Computer Engineering with a strong foundation in programming and web technologies<br>🎯 Interested in Java, Python, Web Development, AI/ML, and Cyber Security<br>🌱 Currently improving my skills in Java, Data Structures, SQL, and Full-Stack Development<br>💡 Open to collaborating on web development projects, Java-based applications, AI projects, and open-source contributions<br>⚡ Fun fact: I enjoy learning new technologies and building clean, responsive user interfaces 🚀
+# 👋 About Me:
+🔭 I’m a Computer Science & Engineering student currently pursuing my B.Tech from S. B. Jain Institute of Technology, Nagpur<br>🎓 Diploma holder in Computer Engineering with a strong foundation in programming and web technologies<br>🎯 Interested in Java, Python, Web Development, AI/ML, and Cyber Security<br>🌱 Currently improving my skills in Java, Data Structures, SQL, and Full-Stack Development<br>💡 Open to collaborating on web development projects, Java-based applications, AI projects, and open-source contributions<br>⚡ Fun fact: I enjoy learning new technologies and building clean, responsive user interfaces 🚀
 
 
 ## 🌐 Socials:
